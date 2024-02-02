@@ -1,0 +1,1 @@
+let _arabic_data_ = {}
